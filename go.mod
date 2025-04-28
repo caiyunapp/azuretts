@@ -4,7 +4,7 @@ go 1.23
 
 toolchain go1.23.2
 
-require go.uber.org/mock v0.5.0
+require go.uber.org/mock v0.5.2
 
 require (
 	golang.org/x/mod v0.18.0 // indirect
